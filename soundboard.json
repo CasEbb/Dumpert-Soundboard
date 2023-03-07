@@ -1,0 +1,639 @@
+[
+  {
+    "name": "Deze Tasje",
+    "url": "https://video-snippets.dumpert.nl/video/dezetasje.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/dezetasje.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/dezetasje.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Hee Adela",
+    "url": "https://video-snippets.dumpert.nl/video/heeadela.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/heeadela.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/heeadela.mp4",
+    "duration": 1
+  },
+  {
+    "name": "No Mickey",
+    "url": "https://video-snippets.dumpert.nl/video/nomickey.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/nomickey.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/nomickey.mp4",
+    "duration": 3
+  },
+  {
+    "name": "Toetawawee",
+    "url": "https://video-snippets.dumpert.nl/video/toetawawee.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/toetawawee.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/toetawawee.mp4",
+    "duration": 5
+  },
+  {
+    "name": "Vieze Energie",
+    "url": "https://video-snippets.dumpert.nl/video/viezeenergie.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/viezeenergie.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/viezeenergie.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Waar haal jij",
+    "url": "https://video-snippets.dumpert.nl/video/waarhaaljij.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/waarhaaljij.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/waarhaaljij.mp4",
+    "duration": 3
+  },
+  {
+    "name": "5 euro's",
+    "url": "https://video-snippets.dumpert.nl/video/1.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/1.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/1.mp4",
+    "duration": 3
+  },
+  {
+    "name": "Nitraatje erbij?",
+    "url": "https://video-snippets.dumpert.nl/video/82.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/82.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/82.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Strontbroek",
+    "url": "https://video-snippets.dumpert.nl/video/83.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/83.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/83.mp4",
+    "duration": 3
+  },
+  {
+    "name": "Neukepartij",
+    "url": "https://video-snippets.dumpert.nl/video/84.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/84.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/84.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Pardon?",
+    "url": "https://video-snippets.dumpert.nl/video/86.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/86.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/86.mp4",
+    "duration": 3
+  },
+  {
+    "name": "Helemaal zand",
+    "url": "https://video-snippets.dumpert.nl/video/85.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/85.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/85.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Kangoeroe",
+    "url": "https://video-snippets.dumpert.nl/video/81.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/81.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/81.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Allemaal onvoeldoende",
+    "url": "https://video-snippets.dumpert.nl/video/3.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/3.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/3.mp4",
+    "duration": 3
+  },
+  {
+    "name": "Bam bam bam",
+    "url": "https://video-snippets.dumpert.nl/video/4.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/4.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/4.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Bel de wouten",
+    "url": "https://video-snippets.dumpert.nl/video/5.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/5.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/5.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Village People 360 kick",
+    "url": "https://video-snippets.dumpert.nl/video/2.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/2.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/2.mp4",
+    "duration": 3
+  },
+  {
+    "name": "030 beter als 020",
+    "url": "https://video-snippets.dumpert.nl/video/6.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/6.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/6.mp4",
+    "duration": 6
+  },
+  {
+    "name": "Biem!",
+    "url": "https://video-snippets.dumpert.nl/video/7.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/7.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/7.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Boer",
+    "url": "https://video-snippets.dumpert.nl/video/8.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/8.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/8.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Boodschap!",
+    "url": "https://video-snippets.dumpert.nl/video/9.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/9.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/9.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Cumshot",
+    "url": "https://video-snippets.dumpert.nl/video/10.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/10.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/10.mp4",
+    "duration": 9
+  },
+  {
+    "name": "Das mien merk",
+    "url": "https://video-snippets.dumpert.nl/video/11.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/11.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/11.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Noem mij maar Willy",
+    "url": "https://video-snippets.dumpert.nl/video/12.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/12.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/12.mp4",
+    "duration": 4
+  },
+  {
+    "name": "De hele klas heeft een onvoeldoende",
+    "url": "https://video-snippets.dumpert.nl/video/13.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/13.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/13.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Dikke billen 5 reeten",
+    "url": "https://video-snippets.dumpert.nl/video/14.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/14.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/14.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Dikke BWM",
+    "url": "https://video-snippets.dumpert.nl/video/15.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/15.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/15.mp4",
+    "duration": 3
+  },
+  {
+    "name": "Dis een jonko",
+    "url": "https://video-snippets.dumpert.nl/video/16.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/16.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/16.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Niet mijn winkel vriend",
+    "url": "https://video-snippets.dumpert.nl/video/17.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/17.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/17.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Helemaal knettah",
+    "url": "https://video-snippets.dumpert.nl/video/18.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/18.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/18.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Dumpert Anthem",
+    "url": "https://video-snippets.dumpert.nl/video/19.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/19.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/19.mp4",
+    "duration": 18
+  },
+  {
+    "name": "Dumpert reeten",
+    "url": "https://video-snippets.dumpert.nl/video/20.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/20.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/20.mp4",
+    "duration": 10
+  },
+  {
+    "name": "Fuck",
+    "url": "https://video-snippets.dumpert.nl/video/21.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/21.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/21.mp4",
+    "duration": 10
+  },
+  {
+    "name": "Hij heet geen Henk",
+    "url": "https://video-snippets.dumpert.nl/video/22.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/22.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/22.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Gefeliciteerd eh!",
+    "url": "https://video-snippets.dumpert.nl/video/23.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/23.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/23.mp4",
+    "duration": 7
+  },
+  {
+    "name": "Geit",
+    "url": "https://video-snippets.dumpert.nl/video/24.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/24.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/24.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Godmiljaar",
+    "url": "https://video-snippets.dumpert.nl/video/25.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/25.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/25.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Kersemus",
+    "url": "https://video-snippets.dumpert.nl/video/26.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/26.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/26.mp4",
+    "duration": 5
+  },
+  {
+    "name": "Rookmevrouw",
+    "url": "https://video-snippets.dumpert.nl/video/27.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/27.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/27.mp4",
+    "duration": 5
+  },
+  {
+    "name": "Wat een grote vis",
+    "url": "https://video-snippets.dumpert.nl/video/28.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/28.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/28.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Haha bier!",
+    "url": "https://video-snippets.dumpert.nl/video/30.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/30.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/30.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Hardcore will never die",
+    "url": "https://video-snippets.dumpert.nl/video/31.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/31.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/31.mp4",
+    "duration": 5
+  },
+  {
+    "name": "Hekkie?",
+    "url": "https://video-snippets.dumpert.nl/video/32.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/32.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/32.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Hey!",
+    "url": "https://video-snippets.dumpert.nl/video/33.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/33.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/33.mp4",
+    "duration": 5
+  },
+  {
+    "name": "Waaaaah",
+    "url": "https://video-snippets.dumpert.nl/video/34.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/34.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/34.mp4",
+    "duration": 22
+  },
+  {
+    "name": "Ik hoef niet te tanken schat",
+    "url": "https://video-snippets.dumpert.nl/video/35.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/35.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/35.mp4",
+    "duration": 3
+  },
+  {
+    "name": "Ik kon er niks aan doen",
+    "url": "https://video-snippets.dumpert.nl/video/36.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/36.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/36.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Ik neuk jullie allemaal de moeder",
+    "url": "https://video-snippets.dumpert.nl/video/37.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/37.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/37.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Ik wil gewoon tuteren",
+    "url": "https://video-snippets.dumpert.nl/video/38.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/38.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/38.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Ik wil kaas",
+    "url": "https://video-snippets.dumpert.nl/video/39.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/39.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/39.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Blikje in de water",
+    "url": "https://video-snippets.dumpert.nl/video/40.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/40.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/40.mp4",
+    "duration": 5
+  },
+  {
+    "name": "Je halve kont staat open",
+    "url": "https://video-snippets.dumpert.nl/video/41.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/41.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/41.mp4",
+    "duration": 4
+  },
+  {
+    "name": "Jeroen doe normaal gek",
+    "url": "https://video-snippets.dumpert.nl/video/42.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/42.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/42.mp4",
+    "duration": 6
+  },
+  {
+    "name": "Ohohoh WTF Jeroen",
+    "url": "https://video-snippets.dumpert.nl/video/43.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/43.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/43.mp4",
+    "duration": 7
+  },
+  {
+    "name": "John Deere trekker",
+    "url": "https://video-snippets.dumpert.nl/video/44.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/44.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/44.mp4",
+    "duration": 4
+  },
+  {
+    "name": "Kom op dan!",
+    "url": "https://video-snippets.dumpert.nl/video/45.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/45.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/45.mp4",
+    "duration": 9
+  },
+  {
+    "name": "Koop dan!",
+    "url": "https://video-snippets.dumpert.nl/video/46.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/46.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/46.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Korter!",
+    "url": "https://video-snippets.dumpert.nl/video/47.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/47.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/47.mp4",
+    "duration": 1
+  },
+  {
+    "name": "krakaka!",
+    "url": "https://video-snippets.dumpert.nl/video/48.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/48.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/48.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Lekker batsen",
+    "url": "https://video-snippets.dumpert.nl/video/49.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/49.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/49.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Mand!",
+    "url": "https://video-snippets.dumpert.nl/video/50.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/50.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/50.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Man man man",
+    "url": "https://video-snippets.dumpert.nl/video/51.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/51.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/51.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Wat een mooi ding!",
+    "url": "https://video-snippets.dumpert.nl/video/52.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/52.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/52.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Net pindakaas gegeten",
+    "url": "https://video-snippets.dumpert.nl/video/53.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/53.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/53.mp4",
+    "duration": 5
+  },
+  {
+    "name": "Niemand liegt tegen mij",
+    "url": "https://video-snippets.dumpert.nl/video/54.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/54.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/54.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Ding komt eraan GVD!",
+    "url": "https://video-snippets.dumpert.nl/video/55.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/55.jpg",
+    "video": "https://video-snippets.dumpert.nl/video/wa/55.mp4",
+    "duration": 2
+  },
+  {
+    "name": "What? No munnie?",
+    "url": "https://video-snippets.dumpert.nl/video/56.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/56.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/56.mp4",
+    "duration": 7
+  },
+  {
+    "name": "Je hebt nooit geen geld",
+    "url": "https://video-snippets.dumpert.nl/video/57.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/57.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/57.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Of nee toch niet",
+    "url": "https://video-snippets.dumpert.nl/video/58.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/58.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/58.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Optyvuh gauw!",
+    "url": "https://video-snippets.dumpert.nl/video/59.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/59.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/59.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Jij trekt ze toch over de balie?",
+    "url": "https://video-snippets.dumpert.nl/video/60.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/60.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/60.mp4",
+    "duration": 5
+  },
+  {
+    "name": "Papa ik heb iets heel ergs gedaan",
+    "url": "https://video-snippets.dumpert.nl/video/61.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/61.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/61.mp4",
+    "duration": 3
+  },
+  {
+    "name": "Plausibel!",
+    "url": "https://video-snippets.dumpert.nl/video/62.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/62.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/62.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Van die grote postzakken",
+    "url": "https://video-snippets.dumpert.nl/video/63.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/63.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/63.mp4",
+    "duration": 6
+  },
+  {
+    "name": "Hey Amigo! Don't touch me",
+    "url": "https://video-snippets.dumpert.nl/video/64.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/64.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/64.mp4",
+    "duration": 9
+  },
+  {
+    "name": "Alleen maar rondjes",
+    "url": "https://video-snippets.dumpert.nl/video/65.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/65.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/65.mp4",
+    "duration": 9
+  },
+  {
+    "name": "Iedereen noemt 'm Willy",
+    "url": "https://video-snippets.dumpert.nl/video/66.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/66.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/66.mp4",
+    "duration": 5
+  },
+  {
+    "name": "Shows met de mannen",
+    "url": "https://video-snippets.dumpert.nl/video/67.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/67.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/67.mp4",
+    "duration": 3
+  },
+  {
+    "name": "Jullie spelen met mijn prive!",
+    "url": "https://video-snippets.dumpert.nl/video/68.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/68.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/68.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Steeds maar weer",
+    "url": "https://video-snippets.dumpert.nl/video/69.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/69.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/69.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Tatatatatata tatatataa",
+    "url": "https://video-snippets.dumpert.nl/video/70.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/70.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/70.mp4",
+    "duration": 2
+  },
+  {
+    "name": "U wou niet luisteren",
+    "url": "https://video-snippets.dumpert.nl/video/71.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/71.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/71.mp4",
+    "duration": 2
+  },
+  {
+    "name": "DXCe verkeerde Kaaaaant",
+    "url": "https://video-snippets.dumpert.nl/video/72.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/72.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/72.mp4",
+    "duration": 5
+  },
+  {
+    "name": "Zonne grote vuurbal jonguh",
+    "url": "https://video-snippets.dumpert.nl/video/73.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/73.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/73.mp4",
+    "duration": 4
+  },
+  {
+    "name": "Vuurwerkje",
+    "url": "https://video-snippets.dumpert.nl/video/74.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/74.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/74.mp4",
+    "duration": 4
+  },
+  {
+    "name": "Wat heb je?",
+    "url": "https://video-snippets.dumpert.nl/video/75.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/75.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/75.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Yes yes yes girl!",
+    "url": "https://video-snippets.dumpert.nl/video/76.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/76.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/76.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Zo is natuur",
+    "url": "https://video-snippets.dumpert.nl/video/77.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/77.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/77.mp4",
+    "duration": 1
+  },
+  {
+    "name": "Keiglad",
+    "url": "https://video-snippets.dumpert.nl/video/78.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/78.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/78.mp4",
+    "duration": 2
+  },
+  {
+    "name": "Helemaal mooi",
+    "url": "https://video-snippets.dumpert.nl/video/79.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/79.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/79.mp4",
+    "duration": 4
+  },
+  {
+    "name": "Lazer op!",
+    "url": "https://video-snippets.dumpert.nl/video/80.mp3",
+    "thumbnail": "https://video-snippets.dumpert.nl/video/80.png",
+    "video": "https://video-snippets.dumpert.nl/video/wa/80.mp4",
+    "duration": 1
+  }
+]
